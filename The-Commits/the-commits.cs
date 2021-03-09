@@ -1,5 +1,10 @@
-//to be continued...
-
-//No day without commits!
-
-//C-Sharp commits are no 1!
+namespace Commits
+{
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Long live The Commit!");
+        }
+    }
+}
