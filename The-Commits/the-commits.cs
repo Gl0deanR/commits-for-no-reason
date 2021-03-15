@@ -10,6 +10,9 @@ namespace Commits
             Console.WriteLine("Trained to kill!");
             Console.WriteLine("Ready to die!");
             Console.WriteLine("But NEVER will!");
+            
+            Console.WriteLine("Another day");
+            Console.WriteLine("Another commit");
         }
     }
 }
